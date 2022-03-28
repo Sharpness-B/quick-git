@@ -12,4 +12,4 @@ To also push to a remote:
 
 ![add_environment_var.png](add_environment_var.png?raw=true)
 
-Name the command however you wish. Do the same for push.
+Rename the commands however you wish.
