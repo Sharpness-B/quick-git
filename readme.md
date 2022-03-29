@@ -2,11 +2,11 @@
 
 To add every change to a commit to a local repo: 
 
-`commit "commit message"`
+`c "commit message"`
 
 To also push to a remote: 
 
-`push "commit message"`
+`p "commit message"`
 
 ## setup:
 
