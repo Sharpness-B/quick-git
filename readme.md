@@ -1,6 +1,6 @@
 ## usage:
 
-To add every change to a commit to a local repo: 
+To add everything and commit to a local repo: 
 
 `c "commit message"`
 
